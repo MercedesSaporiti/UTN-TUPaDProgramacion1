@@ -5,7 +5,7 @@
 #Se utiliza este mismo repositorio para desarrollar el TP 2 de organización empresarial:
 ## Integrantes
 - Mercedes Saporiti
-- 
+   
 ## Escenario elegido
 Escenario B: análisis de ventas utilizando Python, GitHub, Jira y Google Colab.
 
