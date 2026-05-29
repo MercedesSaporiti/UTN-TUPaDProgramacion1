@@ -1,0 +1,9 @@
+Ventas totales: $80100
+Producto más vendido: Cafe
+
+Ventas por mes:
+fecha
+2026-01    24300
+2026-02    30000
+2026-03    25800
+Freq: M, Name: total_venta, dtype: int64
